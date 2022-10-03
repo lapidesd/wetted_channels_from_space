@@ -14,25 +14,25 @@ This repository contains code used to generate analyses for the publication. Con
 
 * Data: a directory containing supporting data for code
 
- * 2015_map_paths_R1.geojson: shapefile of areas walked during first boots-on-the-ground survey of the area
+  * 2015_map_paths_R1.geojson: shapefile of areas walked during first boots-on-the-ground survey of the area
  
- * 2015_map_paths_R2.geojson: shapefile of areas walked during second boots-on-the-ground survey of the area
+  * 2015_map_paths_R2.geojson: shapefile of areas walked during second boots-on-the-ground survey of the area
  
- * Streamchannels_R1_2015_NAME.geojson: shapefiles market channel reaches in different wetness states during the first survey at different named portions of the area
+  * Streamchannels_R1_2015_NAME.geojson: shapefiles market channel reaches in different wetness states during the first survey at different named portions of the area
  
- * Streamchannels_R2_2015_NAME.geojson: shapefiles market channel reaches in different wetness states during the second survey at different named portions of the area
+  * Streamchannels_R2_2015_NAME.geojson: shapefiles market channel reaches in different wetness states during the second survey at different named portions of the area
  
- * dry_runoff.csv: CSV file of runoff at the catchment outlet
+  * dry_runoff.csv: CSV file of runoff at the catchment outlet
  
- * geomorphic channel points 1085 with xy and flowaccum.csv: delineated nodes for random forest training and predictions generated along the geomorphic channel network
+  * geomorphic channel points 1085 with xy and flowaccum.csv: delineated nodes for random forest training and predictions generated along the geomorphic channel network
  
- * geomorphic_pts_newarea 2.csv: Correctly calculated slope and area for geomorphic points
+  * geomorphic_pts_newarea 2.csv: Correctly calculated slope and area for geomorphic points
  
- * highs_lows.pkl: pickle file containing data for confusion matrix based on logistic regression for surface water presence at each node
+  * highs_lows.pkl: pickle file containing data for confusion matrix based on logistic regression for surface water presence at each node
  
- * predict_data_x.csv: Set of CSV files that (combined) provide input data for random forest predictions
+  * predict_data_x.csv: Set of CSV files that (combined) provide input data for random forest predictions
  
- * rf_predictions_x.csv: Set of CSV files that (combined) provide random forest predictions for each node and each date
+  * rf_predictions_x.csv: Set of CSV files that (combined) provide random forest predictions for each node and each date
  
- * training_data_x.csv: Set of CSV files that (combined) provide training data for random forest model
+  * training_data_x.csv: Set of CSV files that (combined) provide training data for random forest model
  
