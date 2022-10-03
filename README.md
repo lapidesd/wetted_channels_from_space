@@ -35,4 +35,6 @@ This repository contains code used to generate analyses for the publication. Con
   * rf_predictions_x.csv: Set of CSV files that (combined) provide random forest predictions for each node and each date
  
   * training_data_x.csv: Set of CSV files that (combined) provide training data for random forest model
+  
+  * temporary_training_x.csv: Set of CSV files that (combined) provide initial training data that gets added to for final training data
  
