@@ -2,7 +2,7 @@
 
 # "Harnessing hyperspectral imagery to map surface water presence and hyporheic flow properties of headwater stream networks"
 
-This repository contains code used to generate analyses for the publication. Contents of this directory are:
+This repository contains data and code used to generate analyses for the publication. Contents of this directory are:
 
 * Colab_notebooks: a directory of Jupyter notebooks written in Google Colab 
 
