@@ -6,7 +6,7 @@ This repository contains data and code used to generate analyses for the publica
 
 * Colab_notebooks: a directory of Jupyter notebooks written in Google Colab 
 
-  * wetted_channel_random_forest_data_preparation: notebook used to prepare training data for random forest model to predict whether a stream reach is wet or dry from RapidEye satellite imagery bands
+  * wetted_channel_random_forest_data_preparation: notebook used to prepare training data for random forest model to predict whether a stream reach is wet or dry from RapidEye satellite imagery bands. This notebook cannot be run without access to the RapidEye imagery.
 
   * wetted_channel_random_forest.ipynb: notebook training random forest model, exploring model accuracy, and producing model outcomes
 
