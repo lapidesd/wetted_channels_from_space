@@ -2,6 +2,8 @@
 
 # "Harnessing hyperspectral imagery to map surface water presence and hyporheic flow properties of headwater stream networks"
 
+[![DOI](https://zenodo.org/badge/545078848.svg)](https://zenodo.org/badge/latestdoi/545078848)
+
 This repository contains data and code used to generate analyses for the publication. Contents of this directory are:
 
 * Colab_notebooks: a directory of Jupyter notebooks written in Google Colab 
