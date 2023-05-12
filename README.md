@@ -1,6 +1,6 @@
 # Data and code supplement for:
 
-# "Harnessing hyperspectral imagery to map surface water presence and hyporheic flow properties of headwater stream networks"
+# "Mapping surface water presence and hyporheic flow properties of headwater stream networks with multispectral satellite imagery"
 
 [![DOI](https://zenodo.org/badge/545078848.svg)](https://zenodo.org/badge/latestdoi/545078848)
 
